@@ -7,6 +7,5 @@ The aim of this part is to demonstrate your understanding of design patterns to 
 
 ### Suggestions for use of design patterns:
 
-•	Using the MVC pattern to enable a fully interactive GUI. You should only concentrate on a simple GUI and on demonstrating the use of the pattern. This must incorporate the use of the Observer pattern.
-•	Using the Strategy pattern to enable different algorithms to be used for game generation. 
+•	Using the MVC pattern to enable a fully interactive GUI. You should only concentrate on a simple GUI and on demonstrating the use of the pattern. This must incorporate the use of the Observer pattern. <br>•	Using the Strategy pattern to enable different algorithms to be used for game generation. <br>
 •	Using the Command pattern to enable decisions to be undone.
